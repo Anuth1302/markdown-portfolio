@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- [ ] Playing Badminton
+- [ ] watching anime
+- [ ] Helping others
+- [ ] thinking about future
