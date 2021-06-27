@@ -1,0 +1,4 @@
+- [ ] Playing Badminton
+- [ ] watching anime
+- [ ] Helping others
+- [ ] thinking about future
